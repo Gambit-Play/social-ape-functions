@@ -1,2 +1,1 @@
-# social-ape-functions
-Firebase Cloud Functions
+# Firebase Cloud Functions
